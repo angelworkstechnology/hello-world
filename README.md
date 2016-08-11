@@ -1,2 +1,5 @@
 # hello-world
-Just another repository practiced
+
+Hi Humans
+
+This is just a practice
